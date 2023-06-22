@@ -1,0 +1,68 @@
+body center{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+-.conte center{
+	height: 510px;
+	width: 25%;
+	box-shadow:  0 0 7px #111;
+	margin: 0 30px;
+}
+.conte .card center{
+	height: 200px;
+	width: 100%;
+	margin-bottom: 170px;
+}
+.card img center{
+	margin: auto;
+	display: block;
+}
+.xboxseriesx img{ 
+	height: 330px;
+	width: 330px;
+}
+.conte .xboxseriesx center{
+	background-color: #111;
+}
+
+.conte .xboxseriesx img center{
+	height: 330px;
+	width: 300px;
+}
+
+}
+.informacion center{
+	height: 80px;
+	width: 100%;
+}
+.informacion h1 center{
+	font-family: sans-serif;
+	font-size: 1.2em;
+	text-align: center;
+	color: #333;
+	margin-bottom: 10px;
+}
+.informacion p center{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: .9em;
+	color: #555;
+}
+.precio center{
+	height: 50px;
+	width: 85%;
+	margin: auto;
+	font-family: sans-serif;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.box-precio center{
+	width: 80px;
+}
+.precio1 center {
+	color: red;
+	font-size: .8em;
+
